@@ -1,10 +1,8 @@
-
-# 💫 About Me:
 # Hi, I'm Prabesh Acharya! 👋  <br>🎓 Bachelor's in Information Management  <br>🎯 Focused on developing innovative and responsive web applications.<br>
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/deSVGKtV) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prabesh.ach) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabesh_ach) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabesh_ach) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrabeshAch33319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveshach1032@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prabesh.ach) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prabesh_ach) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prabesh_ach) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PrabeshAch33319) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praveshach1032@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/deSVGKtV) 
 
 # 💻 Tech Stack:
 
