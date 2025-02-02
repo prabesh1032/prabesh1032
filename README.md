@@ -1,4 +1,4 @@
-# Hi, I'm Prabesh Acharya! 👋  <br>🎓 Bachelor's in Information Management  <br>🎯 Focused on developing innovative and responsive web applications.<br>
+# Hi, I'm Prabesh Acharya! 👋  
 
 
 ## 🌐 Socials:
