@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there! 👋 I'm Prabesh Acharya  👨‍💻
+# Hi ther 👋 I'm Prabesh Acharya  👨‍💻
 
 
 ## 🌐 Socials:
