@@ -109,32 +109,15 @@
 </div>
 ```
 
-
-# 🏆 GitHub Achievements
+# 🏅 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prabesh1032&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prabesh1032&theme=tokyonight" />
+
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prabesh1032&theme=tokyonight" />
 
 </div>
-
----
-
-# 🔥 Current Focus
-
-```txt
-✔ Building Full Stack Laravel Projects
-✔ Learning Scalable Backend Systems
-✔ Improving UI/UX Design Skills
-✔ Working with Supabase Integration
-✔ Growing as a Freelance Developer
-```
-
----
-
-# ✨ Fun Quote
-
-> "Consistency beats motivation."
 
 ---
 
