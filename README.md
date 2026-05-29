@@ -1,4 +1,3 @@
-````md id="g7kpl2"
 # Hi 👋, I'm Prabesh Acharya
 
 <div align="center">
@@ -13,12 +12,12 @@
 
 ## 🚀 About Me
 
-- 🎓 BIM Student at Tribhuvan University
-- 💻 Passionate about Full Stack Web Development
-- ⚡ Currently working with Laravel, React & Supabase
-- 🌱 Learning advanced backend architecture & deployment
-- 🔥 Interested in SaaS products and modern UI/UX
-- 📫 Reach me at: **praveshach1032@gmail.com**
+* 🎓 BIM Student at Tribhuvan University
+* 💻 Passionate about Full Stack Web Development
+* ⚡ Currently working with Laravel, React & Supabase
+* 🌱 Learning advanced backend architecture & deployment
+* 🔥 Interested in SaaS products and modern UI/UX
+* 📫 Reach me at: **[praveshach1032@gmail.com](mailto:praveshach1032@gmail.com)**
 
 ---
 
@@ -47,20 +46,23 @@
 # 💻 Tech Stack
 
 ### 🚀 Frontend
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
 ### ⚙️ Backend
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
+![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
 
 ### 🛢 Database & Tools
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-181818.svg?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-181818.svg?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
@@ -84,7 +86,7 @@
 
 # 📈 Contribution Graph
 
-[![Prabesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabesh1032&theme=tokyo-night&hide_border=true)](https://github.com/prabesh1032)
+[![Prabesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabesh1032\&theme=tokyo-night\&hide_border=true)](https://github.com/prabesh1032)
 
 ---
 
@@ -116,7 +118,7 @@
 ✔ Improving UI/UX Design Skills
 ✔ Working with Supabase Integration
 ✔ Growing as a Freelance Developer
-````
+```
 
 ---
 
@@ -133,5 +135,3 @@
 ![](https://komarev.com/ghpvc/?username=prabesh1032\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
 </div>
-```
-
