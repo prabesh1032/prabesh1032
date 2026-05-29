@@ -80,15 +80,15 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prabesh1032&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prabesh1032&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=prabesh1032&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=prabesh1032&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh1032&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabesh1032&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -96,7 +96,7 @@
 
 # 📈 Contribution Graph
 
-[![Prabesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabesh1032\&theme=tokyo-night\&hide_border=true)](https://github.com/prabesh1032)
+[![Prabesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prabesh1032&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/prabesh1032)
 
 ---
 
@@ -104,11 +104,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabesh1032&theme=tokyonight" />
+<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prabesh1032&theme=tokyonight" />
 
 </div>
+```
 
----
 
 # 🏆 GitHub Achievements
 
