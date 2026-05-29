@@ -67,6 +67,8 @@
 
 ### 🛠️ Database & Tools
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Neon PostgreSQL](https://img.shields.io/badge/Neon_SQL-00E599?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
