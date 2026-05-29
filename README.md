@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 BIM Student | Laravel Developer | Full Stack Web Enthusiast
+### 💻 BIM Student | Web Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Laravel+Developer;PHP+%7C+JavaScript+Developer;Building+Modern+Web+Applications;Learning+and+Growing+Everyday" />
 
@@ -14,7 +14,7 @@
 
 * 🎓 BIM Student at Tribhuvan University
 * 💻 Passionate about Full Stack Web Development
-* ⚡ Currently working with Laravel, React & Supabase
+* ⚡ Currently working with Laravel, React & Tailwindcss
 * 🌱 Learning advanced backend architecture & deployment
 * 🔥 Interested in SaaS products and modern UI/UX
 * 📫 Reach me at: **[praveshach1032@gmail.com](mailto:praveshach1032@gmail.com)**
@@ -42,27 +42,35 @@
 </p>
 
 ---
-
 # 💻 Tech Stack
 
 ### 🚀 Frontend
 
-![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+---
 
 ### ⚙️ Backend
 
-![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛢 Database & Tools
+---
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/supabase-181818.svg?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+### 🛠️ Database & Tools
+
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
